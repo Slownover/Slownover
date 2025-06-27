@@ -26,7 +26,7 @@ Voici quelques statistiques intéressantes sur mon activité GitHub :
 
 [![Slownover's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Slownover's GitHub stats](https://github-readme-stats.vercel.app/api?username=slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr)
+![Slownover's GitHub stats](https://github-readme-stats.vercel.app/api?username=slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&rank_icon=github)
 
 [![GitHub Slownover's Streak](https://streak-stats.demolab.com?user=Slownover&locale=fr)](https://git.io/streak-stats)
 
