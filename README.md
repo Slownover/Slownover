@@ -24,9 +24,9 @@ Voici quelques statistiques intéressantes sur mon activité GitHub :
 
 ![Slownover's profile views](https://komarev.com/ghpvc/?username=Slownover&style=for-the-badge&abbreviated=true&label=Nombre+de+vues+de+mon+profile)
 
-[![Slownover's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Slownover's Top Langs](https://stats-readme-theta.vercel.app/api/top-langs/?username=Slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Slownover's GitHub stats](https://github-readme-stats.vercel.app/api?username=slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&rank_icon=github)
+![Slownover's GitHub stats](https://stats-readme-theta.vercel.app/api?username=slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&rank_icon=github)
 
 [![GitHub Slownover's Streak](https://streak-stats.demolab.com?user=Slownover&locale=fr)](https://git.io/streak-stats)
 
