@@ -4,6 +4,7 @@ Salut ! Je suis un passionné de développement et je partage ici mes projets et
 
 🔭 **Ce sur quoi je travaille actuellement :**
 - Développement web (PHP, Node.js, etc.)
+- Développement de Bot Discord (Node.js)
 - Projets open-source et contributions à la communauté
 
 📫 **Comment me contacter :**
@@ -22,6 +23,8 @@ Salut ! Je suis un passionné de développement et je partage ici mes projets et
 Voici quelques statistiques intéressantes sur mon activité GitHub :
 
 ![Slownover's profile views](https://komarev.com/ghpvc/?username=Slownover&style=for-the-badge&abbreviated=true&label=Nombre+de+vues+de+mon+profile)
+
+[![Slownover's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Slownover's GitHub stats](https://github-readme-stats.vercel.app/api?username=slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr)
 
