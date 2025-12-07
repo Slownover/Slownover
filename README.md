@@ -2,18 +2,13 @@
 
 Salut ! Je suis un passionné de développement et je partage ici mes projets et contributions open source. N'hésite pas à explorer mes dépôts et à me suivre pour découvrir mes dernières créations !
 
-🔭 **Ce sur quoi je travaille actuellement :**
-- Développement web (PHP, Node.js, etc.)
-- Développement de Bot Discord (Node.js)
-- Projets open-source et contributions à la communauté
-
 📫 **Comment me contacter :**
 - [Discord (slownover)](https://discord.com/users/823942940299755530)
 
 ### 🧰 Langages et Outils
 
-- 🖥️ **Langages** : PHP, JavaScript, HTML/CSS
-- 🚀 **Frameworks** : Express, Node.js
+- 🖥️ **Langages** : JavaScript, HTML, CSS, PHP, SQL
+- 🚀 **Frameworks** : Express, Node.js, discord.js
 - 📦 **Outils** : Git, Nginx
 
 ---
@@ -24,11 +19,15 @@ Voici quelques statistiques intéressantes sur mon activité GitHub :
 
 ![Slownover's profile views](https://komarev.com/ghpvc/?username=Slownover&style=for-the-badge&abbreviated=true&label=Nombre+de+vues+de+mon+profile)
 
-[![Slownover's Top Langs](https://stats-readme-theta.vercel.app/api/top-langs/?username=Slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Slownover's Top Langs](https://github-readme-stats-rosy-iota.vercel.app/api/top-langs/?username=Slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Slownover's GitHub stats](https://stats-readme-theta.vercel.app/api?username=slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&rank_icon=github)
+[![Slownover's GitHub stats](https://github-readme-stats-rosy-iota.vercel.app/api?username=slownover&show_icons=true&count_private=true&bg_color=00000000&locale=fr&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Slownover's Streak](https://streak-stats.demolab.com?user=Slownover&locale=fr)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Slownover&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![GitHub Card](https://githubcard.com/Slownover.svg?d=It6aKUtt)
 
 ---
 
