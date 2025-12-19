@@ -25,7 +25,7 @@ Voici quelques statistiques intéressantes sur mon activité GitHub :
 
 [![GitHub Slownover's Streak](https://streak-stats.demolab.com?user=Slownover&locale=fr)](https://git.io/streak-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Slownover&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Slownover's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Slownover&bg_color=ffffff&color=000000&line=9be9a8&point=40c463&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub Card](https://githubcard.com/Slownover.svg?d=It6aKUtt)
 
