@@ -3,7 +3,7 @@
 Salut ! Je suis un passionné de développement et je partage ici mes projets et contributions open source. N'hésite pas à explorer mes dépôts et à me suivre pour découvrir mes dernières créations !
 
 📫 **Comment me contacter :**
-- [Discord (slownover)](https://discord.com/users/823942940299755530)
+- ![Static Badge](https://img.shields.io/badge/Discord-slownover-blue?style=flat&logo=discord&logoColor=fff&link=https%3A%2F%2Fdiscord.com%2Fusers%2F823942940299755530)
 
 ### 🧰 Langages et Outils
 
